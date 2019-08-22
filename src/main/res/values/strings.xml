@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Places Sdk Sample</string>
+    <string name="api_key">AIzaSyAiYWj1msf3L7kOT-LBg2F54SEw-m2ldVA</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="auto_complete_text">Autocomplete textview with custom adapter.</string>
+    <string name="error">Google Api key is missing.</string>
+</resources>
